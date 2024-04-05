@@ -187,7 +187,7 @@
                                     <version>${hawtio.version}</version>
                                     <type>war</type>
                                     <outputDirectory>${project.build.directory}/deploy</outputDirectory>
-                                    <destFileName>hawtio.war</destFileName>
+                                    <destFileName>console.war</destFileName>
                                 </artifactItem>
                             </artifactItems>
                         </configuration>
